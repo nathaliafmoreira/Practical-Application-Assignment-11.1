@@ -13,3 +13,5 @@ Findings:
 - The model that brought a better result was the Decision Tree. 
 
 According to this model, the most relevant characteristics for the price of a car are: year (converted into "age", in the analysis), kilometers (odometer), followed by type sedan and fuel diesel.
+
+https://github.com/nathaliafmoreira/Practical-Application-Assignment-11.1/blob/9a99c5a8a9228aa8ed6c7b57a2242e3ed0fbdfb7/Practical_Application_Assignment_11.1.ipynb
